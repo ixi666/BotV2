@@ -3,10 +3,10 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['17722386341', '👑 Shadow - King 👑', true],
-  ['5219996125657'],
-  ['5219991402134'],
-  ['5219992095479']
+  ['972557238258', '👑 Ixxi - King 👑', true],
+  ['526563510279'],
+  ['79774424276],
+  ['855384407780']
 ] // Cambia los numero que quieras
 global.mods = [] 
 global.prems = [] 
@@ -62,7 +62,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
+global.author = '★ixxi - govir★'
 
 global.wm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
 global.igfg = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
